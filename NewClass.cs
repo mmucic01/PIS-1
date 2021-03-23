@@ -6,5 +6,6 @@ namespace prvi_lab
 {
     class NewClass
     {
+        //muci nema pojma
     }
 }
