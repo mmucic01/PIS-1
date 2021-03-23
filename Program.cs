@@ -8,6 +8,7 @@ namespace prvi_lab
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Novo");
+            Console.WriteLine("Hehe Muci go brrrrr."); \\hehe
         }
     }
 }
